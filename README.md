@@ -1,6 +1,6 @@
 # EcoLight Maestro: Time & Intensity Adaptive Street Light Automation
 
-A microcontroller-based **Smart Street Light System** developed using the **LPC2148 (ARM7)** microcontroller in **Embedded C**. The system automatically controls street lighting based on ambient light intensity using an LDR while displaying real-time date and time through the RTC. It also features an interrupt-driven menu for editing RTC settings via a keypad. The project was designed and simulated in **Proteus** and developed using **Keil µVision**.
+A microcontroller-based **Smart Street Light System** developed using the **LPC2129 (ARM7)** microcontroller in **Embedded C**. The system automatically controls street lighting based on ambient light intensity using an LDR while displaying real-time date and time through the RTC. It also features an interrupt-driven menu for editing RTC settings via a keypad. The project was designed and simulated in **Proteus** and developed using **Keil µVision**.
 
 ---
 
